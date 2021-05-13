@@ -1,3 +1,5 @@
 X = 10
 y = 20
-print(x + y)
+z = 30
+print(X + y + z) 
+
